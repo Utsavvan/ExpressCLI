@@ -1,0 +1,14 @@
+{
+  "name": "expresscli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^12.1.0"
+  },
+  "scripts": {
+    "test": "node ./src/test/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
